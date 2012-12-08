@@ -1,0 +1,11 @@
+Path: .
+URL: https://svn.apache.org/repos/asf/stanbol/trunk
+Repository Root: https://svn.apache.org/repos/asf
+Repository UUID: 13f79535-47bb-0310-9956-ffa450edef68
+Revision: 1418544
+Node Kind: directory
+Schedule: normal
+Last Changed Author: rwesten
+Last Changed Rev: 1418389
+Last Changed Date: 2012-12-07 17:51:33 +0100 (Fri, 07 Dec 2012)
+
