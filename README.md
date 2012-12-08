@@ -3,10 +3,10 @@
 Contains [Apache Stanbol](http://stanbol.apache.org/) pre-configured for use with [Drupal](http://drupal.org).
 
 ## Installation
-1. Download the latest stanbol-for-drupal package and extract it.
-2. Run java -jar 
+1. Download the latest [stanbol-for-drupal](https://github.com/fago/stanbol-for-drupal/archive/master.tar.gz) package and extract it.
+2. Run java -jar org.apache.stanbol.launchers.stable-0.10.0-SNAPSHOT.jar
 
-That's it. Your stanbol instance should be up and running. Access it via http://localhost:8080
+That's it. After a few seconds your stanbol instance should be up and running. Access it via http://localhost:8080
 
 
 ## What has been pre-configured?
