@@ -2,6 +2,9 @@
 
 Contains [Apache Stanbol](http://stanbol.apache.org/) pre-configured for use with [Drupal](http://drupal.org).
 
+## Download
+You can download the latest package [here]((https://github.com/fago/stanbol-for-drupal/archive/master.tar.gz).
+
 ## Installation
 1. Download the latest [stanbol-for-drupal](https://github.com/fago/stanbol-for-drupal/archive/master.tar.gz) package and extract it.
 2. Run java -jar org.apache.stanbol.launchers.stable-0.10.0-SNAPSHOT.jar
