@@ -14,3 +14,6 @@ That's it. After a few seconds your stanbol instance should be up and running. A
 
 ## What has been pre-configured?
 This packages ships with a few config files that Apache Stanbol picks up automatically. That way, a "drupal" site is added to the entityhub which can be used to index Drupal's content in Stanbol. Next, the default enhancement chain has been pre-configured to link to Drupal's content also. This is done by an EntityHub-Linking engine that has been configured to use the Entithub site of Drupal and is added to the default enhancement chain.
+
+## Manual steps
+If you prefer to set this up yourself on your existing instance of Stanbol, you can follow the [manual steps](https://docs.google.com/document/d/13IyhvlqOrNYxJB_5JKxdw57nA6HC4ApF2RTp7-ZLaU4/edit?pli=1).
